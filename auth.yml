@@ -1,34 +1,34 @@
-registry.cn-beijing.aliyuncs.com:
+ccr.ccs.tencentyun.com:
   username: $TARGET_REGISTRY_USER
   password: $TARGET_REGISTRY_PASSWORD
-registry.cn-chengdu.aliyuncs.com:
+ccr.ccs.tencentyun.com:
   username: $TARGET_REGISTRY_USER
   password: $TARGET_REGISTRY_PASSWORD
-registry.cn-guangzhou.aliyuncs.com:
+ccr.ccs.tencentyun.com:
   username: $TARGET_REGISTRY_USER
   password: $TARGET_REGISTRY_PASSWORD
-registry.cn-hangzhou.aliyuncs.com:
+ccr.ccs.tencentyun.com:
   username: $TARGET_REGISTRY_USER
   password: $TARGET_REGISTRY_PASSWORD
-registry.cn-heyuan.aliyuncs.com:
+ccr.ccs.tencentyun.com:
   username: $TARGET_REGISTRY_USER
   password: $TARGET_REGISTRY_PASSWORD
-registry.cn-huhehaote.aliyuncs.com:
+ccr.ccs.tencentyun.com:
   username: $TARGET_REGISTRY_USER
   password: $TARGET_REGISTRY_PASSWORD
-registry.cn-qingdao.aliyuncs.com:
+ccr.ccs.tencentyun.com:
   username: $TARGET_REGISTRY_USER
   password: $TARGET_REGISTRY_PASSWORD
-registry.cn-shanghai.aliyuncs.com:
+ccr.ccs.tencentyun.com:
   username: $TARGET_REGISTRY_USER
   password: $TARGET_REGISTRY_PASSWORD
-registry.cn-shenzhen.aliyuncs.com:
+ccr.ccs.tencentyun.com:
   username: $TARGET_REGISTRY_USER
   password: $TARGET_REGISTRY_PASSWORD
-registry.cn-wulanchabu.aliyuncs.com:
+ccr.ccs.tencentyun.com:
   username: $TARGET_REGISTRY_USER
   password: $TARGET_REGISTRY_PASSWORD
-registry.cn-zhangjiakou.aliyuncs.com:
+ccr.ccs.tencentyun.com:
   username: $TARGET_REGISTRY_USER
   password: $TARGET_REGISTRY_PASSWORD
 $TARGET_REGISTRY:
