@@ -1,36 +1,3 @@
-ccr.ccs.tencentyun.com:
-  username: $TARGET_REGISTRY_USER
-  password: $TARGET_REGISTRY_PASSWORD
-ccr.ccs.tencentyun.com:
-  username: $TARGET_REGISTRY_USER
-  password: $TARGET_REGISTRY_PASSWORD
-ccr.ccs.tencentyun.com:
-  username: $TARGET_REGISTRY_USER
-  password: $TARGET_REGISTRY_PASSWORD
-ccr.ccs.tencentyun.com:
-  username: $TARGET_REGISTRY_USER
-  password: $TARGET_REGISTRY_PASSWORD
-ccr.ccs.tencentyun.com:
-  username: $TARGET_REGISTRY_USER
-  password: $TARGET_REGISTRY_PASSWORD
-ccr.ccs.tencentyun.com:
-  username: $TARGET_REGISTRY_USER
-  password: $TARGET_REGISTRY_PASSWORD
-ccr.ccs.tencentyun.com:
-  username: $TARGET_REGISTRY_USER
-  password: $TARGET_REGISTRY_PASSWORD
-ccr.ccs.tencentyun.com:
-  username: $TARGET_REGISTRY_USER
-  password: $TARGET_REGISTRY_PASSWORD
-ccr.ccs.tencentyun.com:
-  username: $TARGET_REGISTRY_USER
-  password: $TARGET_REGISTRY_PASSWORD
-ccr.ccs.tencentyun.com:
-  username: $TARGET_REGISTRY_USER
-  password: $TARGET_REGISTRY_PASSWORD
-ccr.ccs.tencentyun.com:
-  username: $TARGET_REGISTRY_USER
-  password: $TARGET_REGISTRY_PASSWORD
 $TARGET_REGISTRY:
   username: $TARGET_REGISTRY_USER
   password: $TARGET_REGISTRY_PASSWORD
